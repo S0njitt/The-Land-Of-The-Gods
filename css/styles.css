@@ -602,6 +602,14 @@ progress {
   max-width: 100%;
   height: auto;
 }
+.portfolio-item .img-fluid{
+  width:400px ;
+  height:500px ;
+}
+.timeline-image{
+width:112px ;
+height:112px ;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
